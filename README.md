@@ -1,4 +1,4 @@
-# magic and FizzBuzz (& dragons?)
+# Magic and FizzBuzz (& dragons?)
 This was made during code social on 9/6/2019, where funky stuff happened. 
 Lots of manly men, lots of beer, snacks and strange things crawling around.
 
